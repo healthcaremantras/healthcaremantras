@@ -29,7 +29,7 @@ SESSION_START();
         <ul class="nospace inline pushright">
           <li><a class="btn inverse" href="index.php">HOME</a></li>
           <li><a class="btn inverse" href="about.php">ABOUT</a></li>
-		  <li><a class="btn inverse" href="#footer">CONTACT US</a></li>
+		  <li><a class="btn inverse"  href="#footer">CONTACT US</a></li>
         </ul>
       </footer>
     </article>
