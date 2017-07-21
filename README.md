@@ -1,1 +1,1 @@
-# https://healthcaremantras.io/healthcaremantras/index.php
+# https://healthcaremantras/index.php
